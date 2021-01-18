@@ -1,7 +1,7 @@
 node {
 
 stage('SCM'){
- git 'https://github.com/werss83/test_projet_jenkins_sonarqube'
+ git 'https://github.com/werss83/test_projet_jenkins_sonarqubeblob/master/microservice-vol/Jenkinsfile'
 }
 
 stage('Compile'){
